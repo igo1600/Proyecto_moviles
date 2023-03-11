@@ -1,0 +1,4 @@
+#Sat Mar 11 01:35:58 CST 2023
+base.0=C\:\\Users\\pablonunez\\OneDrive - ITESO\\iteso\\SS9\\Programacion Disp Moviles\\ProyectoFinal\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
